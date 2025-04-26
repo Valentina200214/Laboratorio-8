@@ -1,0 +1,5 @@
+../Core/Src/comunicacion.c:24:6:datos_enviar	1
+../Core/Src/comunicacion.c:127:6:EnviarPaquete	1
+../Core/Src/comunicacion.c:138:8:serializarPaquete	5
+../Core/Src/comunicacion.c:155:9:calcularCRC	2
+../Core/Src/comunicacion.c:164:11:instruction	12

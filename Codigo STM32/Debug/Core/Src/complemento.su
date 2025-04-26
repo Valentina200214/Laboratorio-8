@@ -1,0 +1,3 @@
+../Core/Src/complemento.c:18:6:Tiempo_Init	16	static
+../Core/Src/complemento.c:23:9:aplicarFiltroFIR	32	static
+../Core/Src/complemento.c:35:6:calibracion	16	static

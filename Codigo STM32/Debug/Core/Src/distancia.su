@@ -1,0 +1,8 @@
+../Core/Src/distancia.c:85:8:promedio_adc	32	static
+../Core/Src/distancia.c:109:8:promedio_adc_v	24	static
+../Core/Src/distancia.c:118:11:calculo_mm	16	static
+../Core/Src/distancia.c:129:7:interpolar_distancia	56	static
+../Core/Src/distancia.c:155:6:updatePose	32	static
+../Core/Src/distancia.c:234:6:control_distancia	32	static
+../Core/Src/distancia.c:295:7:actualizar_velocidad_trapezoidal	32	static
+../Core/Src/distancia.c:337:9:destino_alcanzado	16	static

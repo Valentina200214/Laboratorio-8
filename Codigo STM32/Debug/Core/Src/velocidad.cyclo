@@ -1,0 +1,6 @@
+../Core/Src/velocidad.c:49:6:Encoder_1_Init	1
+../Core/Src/velocidad.c:54:6:Encoder_2_Init	1
+../Core/Src/velocidad.c:60:10:calculo_rpm	2
+../Core/Src/velocidad.c:88:6:vel	1
+../Core/Src/velocidad.c:96:9:conversor	3
+../Core/Src/velocidad.c:108:9:conversor_mm_s	2
